@@ -18,6 +18,6 @@ def print_line(line, encoding, errors):
     print(raw_bytes, "<====>", cooked_string)
 
 
-languages = open("languages.txt", encoding = "utf-8")
+languages = open("languages_ex23.txt", encoding = "utf-8")
 
 main(languages, encoding, error)
