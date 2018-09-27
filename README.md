@@ -5,3 +5,4 @@
 * ex.39 字典    
 * ex.40 模块、类和对象    
 * ex.41 面对对象术语    
+<img src="https://github.com/PyVera/HomeWork/blob/master/pic1.jpg"/>
