@@ -1,5 +1,6 @@
 # My HomeWork for Learn Python the Hard Way  
 <img src="https://github.com/PyVera/HomeWork/blob/master/pic1.jpg" width="180" height="180" />
+<iframe src="https://github.com/PyVera/HomeWork/blob/master/gif1.gif">
    
 * ex.23 字符串、字节串和字符编码    
 命令行代码 `python ex23.py languages.txt `    
